@@ -92,7 +92,11 @@ a{
     background-color:#414770;
     color: white;
   }
-
+section{
+  width:100%;
+  height: 400px;
+  padding: 0.5px;
+}
 /* SESSÃO SERVICOS*/
 .subtitulo-branco {
   text-align: center;
@@ -160,11 +164,7 @@ a{
 .fundo-branco {
    background-color:white;
 }
-section{
-  width:100%;
-  height: 600px;
-  padding: 0.5px;
-}
+
 /* SESSÃO FALE CONOSCO */
 .fundo-azul {
   background-color:#414770;
